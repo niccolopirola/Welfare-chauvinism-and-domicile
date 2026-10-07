@@ -36,7 +36,7 @@ Living outside city centres is associated with more chauvinist attitudes. Once t
 
 ## Key chart
 
-![Mean welfare chauvinism by domicile](Welfare-chauvinism-and-domicile/figures/chauvinism_by_domicile.png)
+![Mean welfare chauvinism by domicile](figures/chauvinism-by-domicile.png)
 
 ## Open question
 
