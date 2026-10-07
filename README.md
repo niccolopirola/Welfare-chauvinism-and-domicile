@@ -34,6 +34,10 @@ Living outside city centres is associated with more chauvinist attitudes. Once t
 | [`analysis.md`](analysis.md) | Full text of the analysis, readable directly on GitHub |
 | [`docs/analysis_domicile_original_IT.pdf`](docs/analysis_domicile_original_IT.pdf) | Original version in Italian (PDF) |
 
+## Key chart
+
+![Mean welfare chauvinism by domicile](figures/chauvinism_by_domicile.png)
+
 ## Open question
 
 How do exposure to immigrant communities (denser in urban suburbs) and geographic isolation (rural areas) interact in shaping chauvinist attitudes? The next step is to test this empirically.
